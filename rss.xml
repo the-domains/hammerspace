@@ -4,7 +4,7 @@
         <description><![CDATA[hammerspace]]></description>
         <link>https://thegrid.ai/hammerspace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 18:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2015 18:52:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hammerspace/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Exclusive ]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/hammerspace/exclusive/index.html</link>
             <guid isPermaLink="false">5c9bef0a-f016-4a21-afc6-ac89812e3255</guid>
             <pubDate>Fri, 30 Oct 2015 18:34:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/hammerspace/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">3fe3f268-337e-406e-ab32-91461eeca6be</guid>
-            <pubDate>Fri, 30 Oct 2015 18:17:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
